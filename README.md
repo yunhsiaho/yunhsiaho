@@ -4,3 +4,7 @@ Welcome to my small coding place! I'm Hsia, currently in training for web dev in
 
 Come and check my projects 😉
 
+## Some details about me
+- I'm from Taiwan, a very hot small island.
+- I'm looking for job or internship opportunities:)
+- I'm earning about React and MongoDB, trying to make a fun project for that.
