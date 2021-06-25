@@ -6,9 +6,9 @@ Come and check my projects 😉
 
 ## Acknowledged
 
-- `(*´∀`)~♥ HTML, CSS, SASS, BOOTSTRAP`
-- `d(`･∀･)b Javascript, Node.js, React`
-- `(`・ω・´) PHP, mYSQL, Docker, MongoDb`
+- ```(*´∀`)~♥ HTML, CSS, SASS, BOOTSTRAP```
+- ```d(`･∀･)b Javascript, Node.js, React```
+- ```(`・ω・´) PHP, mYSQL, Docker, MongoDb```
 
 ## Some details about me
 - I'm recently focusing on improving my React skills ᕦ(ò_óˇ)ᕤ
