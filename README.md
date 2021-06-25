@@ -8,7 +8,7 @@ Come and check my projects 😉
 
 - HTML, CSS, SASS, BOOTSTRAP
 - Javascript, Node.js, React
-- PHP, mYSQL, Docker, MongoDb
+- PHP, mySQL, Docker, MongoDb
 
 ## Some details about me
 - I'm recently focusing on improving my React skills ᕦ(ò_óˇ)ᕤ
