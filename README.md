@@ -17,5 +17,5 @@ Come and check my projects 😉
 
 [LinkedIn](https://www.linkedin.com/in/yun-hsia-ho/)
 [email](yunhsia.ho@gmail.com)
-[CV](blob:null/5f9ebd24-c327-440e-87ba-a67e89d16fc4)
+[CV](https://raw.githubusercontent.com/yunhsiaho/yunhsiaho/main/CV%20eng%20-%20YH%20HO.pdf)
 
