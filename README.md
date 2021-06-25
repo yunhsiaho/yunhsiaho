@@ -15,7 +15,8 @@ Come and check my projects 😉
 - I'm from Taiwan, a very hot small island (๑´ڡ`๑)
 - I'm looking for job or internship opportunities. If you have any opportunity, please don't hesitate to contact me! (,,・ω・,,)
 
-[LinkedIn](https://www.linkedin.com/in/yun-hsia-ho/)
-[email](yunhsia.ho@gmail.com)
-[CV](https://raw.githubusercontent.com/yunhsiaho/yunhsiaho/main/CV%20eng%20-%20YH%20HO.pdf)
+Email: yunhsia.ho@gmail.com
+<div><a href="https://www.linkedin.com/in/yun-hsia-ho/" target="_blank">LinkedIn</a></div>
+
+<a href="https://raw.githubusercontent.com/yunhsiaho/yunhsiaho/main/CV%20eng%20-%20YH%20HO.pdf" target="_blank">CV</a>
 
