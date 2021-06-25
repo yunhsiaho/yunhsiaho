@@ -16,6 +16,6 @@ Come and check my projects 😉
 - I'm looking for job or internship opportunities. If you have any opportunity, please don't hesitate to contact me! (,,・ω・,,)
 
 Email: yunhsia.ho@gmail.com
-<a href="https://www.linkedin.com/in/yun-hsia-ho/" target="_blank"><i class="fab fa-linkedin"></i></a>
-<a href="https://raw.githubusercontent.com/yunhsiaho/yunhsiaho/main/CV%20eng%20-%20YH%20HO.pdf" target="_blank"><i class="fas fa-user-circle"></i></a>
+<a href="https://www.linkedin.com/in/yun-hsia-ho/" target="_blank">LinkedIn</a>
+<a href="https://raw.githubusercontent.com/yunhsiaho/yunhsiaho/main/CV%20eng%20-%20YH%20HO.pdf" target="_blank">CV</a>
 
