@@ -1,21 +1,23 @@
 # Hi there 👋
 
-Welcome to my small coding place! I'm Hsia, currently in training for web dev in Becode-Liege.
+Welcome to my small coding place! I'm **Hsia**. I love cat, quiz and tap dance. 🐱
 
-Come and check my projects 😉
+I've just finished the web development training in Becode-Liege, and I'm looking for a role of junior developper now.
 
 ## Acknowledged
 
-- HTML, CSS, SASS, BOOTSTRAP
-- Javascript, Node.js, React
-- PHP, mySQL, Docker, MongoDb
+### Frontend
+- HTML / CSS / SASS / BOOTSTRAP / Javascript / Node.js / React
+### Backend
+- PHP / MySQL / Docker / MongoDb
 
-## Some details about me
-- I'm recently focusing on improving my React skills ᕦ(ò_óˇ)ᕤ
-- I'm from Taiwan, a very hot small island (๑´ڡ`๑)
+## Some more details about me
+- I'm trying to learn Java recently. ᕦ(ò_óˇ)ᕤ
+- I'm from Taiwan, a very hot small island full of delicious cuisines.(๑´ڡ`๑)
+- I've been living in Belgium for 2 years now. Bonjour!
 - I'm looking for job or internship opportunities. If you have any opportunity, please don't hesitate to contact me! (,,・ω・,,)
 
 - Email: yunhsia.ho@gmail.com
-- Profile: <a href="https://www.linkedin.com/in/yun-hsia-ho/" target="_blank">LinkedIn</a>, 
-<a href="https://raw.githubusercontent.com/yunhsiaho/yunhsiaho/main/CV%20eng%20-%20YH%20HO.pdf" target="_blank">CV</a>
+- Profile: [LinkedIn](https://www.linkedin.com/in/yun-hsia-ho/), [CV](https://github.com/yunhsiaho/yunhsiaho/files/7994885/CV_EN_Yun-Hsia_HO.pdf)
+
 
