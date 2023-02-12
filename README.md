@@ -1,20 +1,21 @@
-Hi, I'm Yun-Hsia :wave:
+<img src="yunhsiaho banner.png"
+     alt="yunhsiaho banner" />
 
-	![yunhsiaho](yunhsiaho banner.png)
+# Hi, I'm Yun-Hsia :wave:
 
 ### Frontend Skills
 
-- HTML / CSS / SASS / BOOTSTRAP / Javascript / Node.js / React
+- HTML / CSS / SASS / Bootstrap / Javascript / Node.js / React
 
 ### Backend Skills
 
 - PHP / MySQL / Docker
 
-## Some more details about me
+### Some more details about me
 
 - I'm from **Taiwan**, a very hot small island full of delicious cuisines.
 - I've been living in **Belgium** for 3 years now. Bonjour!
-- I 'm learning **web design**, and doing the google certificated UX course now.
+- I 'm interested in **web design**, and doing the google certificated UX course now.
 - I also love tap dance, handcraft and reading.
 - I'm looking for front-end dev/UX design job or internship. Please don't hesitate to contact me if you have any opportunity! 
 
