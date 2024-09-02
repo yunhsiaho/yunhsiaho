@@ -3,6 +3,9 @@
 <img src="yunhsiaho banner.png"
      alt="yunhsiaho banner" />
 
+<img src="https://www.codewars.com/users/yunhsia.ho/badges/large"
+     alt="Codewars" />
+
 ## Frontend skills
 
 - HTML / CSS / SASS / Bootstrap / Javascript / Node.js / React
